@@ -60,7 +60,7 @@ The Power BI dashboard consists of 4 pages:
 This project demonstrates the use of Power BI for business intelligence, enabling data-driven decision-making through interactive dashboards.
 
 ## Project Report
-[Download Full Report](6_ECommerce_Sales_Analysis.pdf)
+[Download Full Report](ECommerce_Sales_Analysis.pdf)
 
 
 

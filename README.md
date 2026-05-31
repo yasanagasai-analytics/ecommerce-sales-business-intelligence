@@ -45,7 +45,7 @@ The Power BI dashboard consists of 4 pages:
 ![Executive Overview](4_PowerBI/Dashboard_Screenshots/1_Executive_Overview.png)
 ### Sales Analysis
 ![Sales Analysis](4_PowerBI/Dashboard_Screenshots/2_Sales_Analysis.png)
-###Customer Analysis
+### Customer Analysis
 ![Customer Analysis](4_PowerBI/Dashboard_Screenshots/3_Customer_Analysis.png)
 ### Business Insights & Strategic Recommendations
 ![Business Insights](4_PowerBI/Dashboard_Screenshots/4_Business_Insights_Recommendations.png)
